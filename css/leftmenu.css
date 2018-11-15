@@ -1,0 +1,58 @@
+body
+{
+
+}
+
+#u1
+{
+    list-style: none;
+    display: none;
+    border: 1px solid blue;
+    width: 150px;
+    height: 300px;
+    margin: 0px;
+    padding: 0px;
+}
+div
+{
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+#fathermenu
+{
+    border: 1px solid #ffaacc;
+}
+#div1
+{
+    width:150px;
+    height: 200px;
+
+}
+#div2
+{
+    width: 200px;
+    height: 400px;
+}
+.blue
+{
+    background-color: greenyellow;
+}
+#top_menu
+{
+    list-style: none;
+    background-color: lightseagreen;
+    color: #fff;
+    width: 1000px;
+    padding-top: 20px;
+}
+.limenu
+{
+    display: inline-block;
+    width: 13%;
+    height: 15px;
+    text-align: center;
+    line-height: 20px;
+}
